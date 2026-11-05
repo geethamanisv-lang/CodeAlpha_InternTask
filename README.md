@@ -2,8 +2,8 @@
 
 ## About This Repository
 
-This repository contains three beginner-level Python projects developed as part of my CodeAlpha virtual internship project 
-T
+This repository contains three beginner-level Python projects developed as part of My CodeAlpha virtual internship project 
+
 ## Projects Included
 
 ### 1. Hangman Game
